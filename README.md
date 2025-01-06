@@ -49,7 +49,7 @@ MIT License
 
 ## 作者
 
-[李元魁]
+[李元魁](https://www.linkedin.com/in/seo-circleghost/)
 
 ## 問題回報
 
